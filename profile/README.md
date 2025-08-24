@@ -1,5 +1,5 @@
-# First, YBM(일단 YBM)
-
+# First, YBM(일단 YBM) FOR JUNCTION ASIA (POHANG)
+###  Develop period: 08.23~08.34
 ☕ Speak before you sip. ✈️ Learn before you land.
 
 DeugaJa is a 5-minute English coach for busy adults.
@@ -9,3 +9,6 @@ Forget long word lists and 30-minute drills—DeugaJa delivers short, context-aw
 
 <img width="1546" height="847" alt="ildan YBM image" src="https://github.com/user-attachments/assets/741b1d2f-392b-42c7-80e0-efecc435eca1" />
 <img width="1642" height="888" alt="image" src="https://github.com/user-attachments/assets/36b70a92-17c5-44a2-ac8c-b9bfdffe0303" />
+<video src="https://github.com/user-attachments/assets/bde9de0b-caa2-437a-99dc-8342145f33ee"/>
+
+
